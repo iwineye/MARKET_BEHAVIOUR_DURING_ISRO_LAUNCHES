@@ -6,15 +6,18 @@ Through this project we try to understand how stock markets behave due to histor
     
 Best way to determine that is by using the data of the companies that have partnered in those launches.
 
-An API is Created from the download link from Yahooo finance website.
+But before that know how stock market functions .
+   
+![How stock market works](image.png)
 
-Scraped the data using tickers of the companies involved. But before that
+## WORKFLOW
 
 ![WORK FLOW](<STOCK MARKET.PNG>)
 
-    Know how stock market functions .
 
-![How stock market works](image.png)
+Scraped the data using tickers of the companies involved.
+
+An API is Created from the download link from Yahooo finance website.
 
 Performed data analysis using moving average method for closing prices .
 
@@ -29,9 +32,11 @@ which tells when a stock is bullish or is going to dip.So they can buy/sell and 
 
 ## HOW TO RUN :
 
-Download the note book and replace the date and ticker data with any other company and you want. Modify and Run 
+Download the note book and replace the date and ticker data with any other company and you want.
+
+Modify the column names according to your data and Run accordingly to study particular stock trends.
 
 ## CONCLUSION
 
-    *In terms of growth percentage BHEL and MTARTECH and CENTUM had the highest among all**
+  **In terms of growth percentage BHEL and MTARTECH and CENTUM had the highest among all**
   **In terms of value we can see that MTARTECH,TATAELXSI,CENTUM were the highest.**
