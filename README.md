@@ -15,9 +15,9 @@ But before that know how stock market functions .
 ![WORK FLOW](<STOCK MARKET.PNG>)
 
 
-Scraped the data using tickers of the companies involved.
+Created an API from the download link from Yahooo finance website.
 
-An API is Created from the download link from Yahooo finance website.
+Scraped the data of the companies involved by giving the tickers data in a list.
 
 Performed data analysis using moving average method for closing prices .
 
