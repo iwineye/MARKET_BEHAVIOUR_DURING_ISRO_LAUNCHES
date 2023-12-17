@@ -28,5 +28,9 @@
 
 HOW TO RUN :
 
-Download the note book and replace the date and ticker data of any other company and you want the most recent returns data
+Download the note book and replace the date and ticker data with any other company and you want. Modify and Run 
 
+## conclusion
+
+    *In terms of growth percentage BHEL and MTARTECH and CENTUM had the highest among all**
+  **In terms of value we can see that MTARTECH,TATAELXSI,CENTUM were the highest.**
